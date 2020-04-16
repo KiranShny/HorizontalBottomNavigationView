@@ -1,0 +1,3 @@
+rootProject.name='HorizontalBottomNavigationView'
+include ':app'
+include ':horizontalbottomnavigationview'
